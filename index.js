@@ -7,12 +7,12 @@ var passwordBlockTimer;
 var privateKeyBlockTimer;
 
 var validPasswords = {
-    "Jahnavi": "192.200.30.40",
-    "Prithvi": "193.400.30.40",
-    "Jeevitha": "194.165.30.40",
-    "SowjanyaBhat": "195.165.30.40",
-    "Tejashwini": "196.165.30.40",
-    "ShreeHarshini": "197.165.30.40"
+    "Jahnavi": "jahnavimr100@gmail.com",
+    "Prithvi": "prithvijaiprakash@gmail.com",
+    "Jeevitha": "jeevitha18032003@gmail.com",
+    "SowjanyaBhat": "sowjanyab509@gmail.com",
+    "Tejashwini": "tejashwini77949@gmail.com",
+    "ShreeHarshini": "harshini9939@gmail.com"
 };
 
 var validDevicePath = Object.values(validPasswords);
