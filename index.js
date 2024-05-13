@@ -148,7 +148,7 @@ function displayTimer(prefix, time, suffix, containerId) {
 
 function generatePrivateKey() {
     var keyLength = 20;
-    var characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*";
+    var characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*-_+=:;'~`|(}[){[?/><";
     var privateKey = "";
 
     for (var i = 0; i < keyLength; i++) {
